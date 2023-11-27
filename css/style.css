@@ -24,8 +24,6 @@
 
 .header {
   height: 80px;
-
-  /* debug */
   background-color: #3161e0;
 }
 
@@ -65,14 +63,28 @@
   background-size: cover;
 }
 
-.jumbotron .jumbotron__content {
+.jumbotron__content {
   width: 800px;
   margin: 0 auto;
-
-  /* debug */
-  background-color: #ee82ee;
-  border: 2px dashed black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-wrap: wrap;
   height: 400px;
+}
+
+.jumbotron__button {
+  height: 50px;
+
+  border-radius: 20px;
+  padding: 8px 8px;
+  background-color: white;
+}
+
+.button-apri {
+  color: white;
+  background-color: black;
 }
 
 /* ## ROWS SECTION */
