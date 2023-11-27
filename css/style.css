@@ -120,7 +120,7 @@ main>section .col-big {
   flex-basis: 60%;
 
   /* debug */
-  background-color: #1e90ff;
+  /* background-color: #1e90ff; */
 }
 
 main>section .col-small {
@@ -133,6 +133,7 @@ main>section .col-small {
 main>.download>.container {
   display: block;
 }
+
 
 main>.download .col {
   /* debug */
