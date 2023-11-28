@@ -126,8 +126,8 @@ main>section .col-big {
 main>section .col-small {
   flex-basis: 40%;
 
-  /* debug */
-  background-color: #ffc0cb;
+  /* debug
+  background-color: #ffc0cb; */
 }
 
 main>.download>.container {
