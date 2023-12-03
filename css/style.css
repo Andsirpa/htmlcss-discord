@@ -147,6 +147,7 @@ main>.download .col {
 .footer {
   background-color: #23272a;
   padding-top: 10px;
+  color: white;
 }
 
 .footer .upper-footer {
@@ -198,3 +199,12 @@ main>.download .col {
   background-color: #fdb5bf;
   border: 2px dashed black;
 }
+
+.social {
+  display: inline-block;
+}
+
+/* ul {
+  list-style: none;
+  color: hsl(228.91deg 51.11% 64.71%);
+} */
